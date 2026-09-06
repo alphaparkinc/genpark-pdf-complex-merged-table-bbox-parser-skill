@@ -1,0 +1,12 @@
+{
+  "name": "genpark-pdf-complex-merged-table-bbox-parser-skill",
+  "version": "1.0.0",
+  "description": "Heuristic 2D bounding-box spatial grid analyzer resolving multi-column spanning headers and borderless table cells from PDF layouts.",
+  "category": "Document Intelligence & Vision-Table Parsing",
+  "runtime": "python3",
+  "entrypoint": "client.py",
+  "author": "GenPark AI",
+  "repository": "https://github.com/alphaparkinc/genpark-pdf-complex-merged-table-bbox-parser-skill",
+  "verified": true,
+  "stars": 8
+}
